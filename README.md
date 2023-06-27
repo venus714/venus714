@@ -15,9 +15,6 @@ I'm currently working on various projects<br><br>Ask me about java-script,ruby,r
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venus714&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=venus714&icon=0&color=0)](https://visitcount.itsvg.in)
 
