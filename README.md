@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on various projects<br>I'm currently learning ruby on rails<br>Ask me about java-script,ruby,ruby on rails,html,css and <br>Fun fact : I spend 90% of my time at the animal shelter i volunteer laughing.The animals crack me up  
+I'm currently working on various projects<br><br>Ask me about java-script,ruby,ruby on rails,html,react,css and php  
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I'm currently working on various projects<br>I'm currently learning ruby on rail
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venus714&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
